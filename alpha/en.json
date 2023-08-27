@@ -1,3 +1,7 @@
 {
-    "alpha_disclaimer": "Pre-alpha footage, final product may change"
+    "alpha_disclaimer": "Pre-alpha footage, final product may change",
+    "items": {
+        "key_name": "Keys",
+        "key_description": "Left-Click: Lock / Unlock"
+    }
 }

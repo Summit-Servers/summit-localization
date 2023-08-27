@@ -1,3 +1,7 @@
 {
-    "alpha_disclaimer": "Vidéo de pré-alpha, le produit final peut changer"
+    "alpha_disclaimer": "Vidéo de pré-alpha, le produit final peut changer",
+    "items": {
+        "key_name": "Clés",
+        "key_description": "Clic Gauche: Verrouiller / Déverrouiller"
+    }
 }
