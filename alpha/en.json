@@ -1,7 +1,5 @@
 {
     "alpha_disclaimer": "Pre-alpha footage, final product may change",
-    "items": {
-        "key_name": "Keys",
-        "key_description": "Left-Click: Lock / Unlock"
-    }
+    "items_key_name": "Keys",
+    "items_key_description": "Left-Click: Lock / Unlock"
 }
